@@ -2,7 +2,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/75xl145/2023/12/Foundation-Models---The-Engines-of--Generative-AI-s-Progress.jpg" alt="Heart Attack" />
+    <img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/75xl145/2023/12/Foundation-Models---The-Engines-of--Generative-AI-s-Progress.jpg" alt="Generative AI" />
   </p>
 <p align="center">
 <strong>Generative AI Models</strong></p>

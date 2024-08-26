@@ -43,6 +43,8 @@ Generate images from textual descriptions using the Stable Diffusion model.
 
 - **Model Overview:** Uses a diffusion model to create high-quality images from text prompts.
 - **Colab Template:** [text_to_image_generator](https://drive.google.com/file/d/1sL1GqOeDoOYhP15I-NQnVr-Wv4POgLxM/view?usp=drive_link)
+- **Image Generation Output:**
+![Image_generation_output](https://github.com/Islam-hady9/Generative-AI-Models/blob/main/01_Text%20To%20Image%20Generator/Image_generation_output.png)
 
 #### 2. Image To Text Generator
 
@@ -50,6 +52,8 @@ Generate descriptive captions for images using the Vision Transformer (ViT) and 
 
 - **Model Overview:** Combines ViT for image processing and GPT-2 for text generation.
 - **Colab Template:** [image_to_text_generator](https://drive.google.com/file/d/1WtfTozk-zMV2763B3ZMg3Pw4VZdiNiBa/view?usp=drive_link)
+- **Text Generation Output:**
+![Text_generation_output](https://github.com/Islam-hady9/Generative-AI-Models/blob/main/02_Image%20To%20Text%20Generator/Text_generation_output.png)
 
 ### How to Contribute
 
